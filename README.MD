@@ -33,6 +33,9 @@ Isso te ajuda a não se perder, especialmente quando faz revisões, precisa volt
 ## 🧠 Protótipos
 Figma
 
+[Protótipo](https://www.figma.com/design/L5rqAuzQ8yXD0WzCcyTL3i/PullFlow?t=x0ppF1PahK0vDQak-0)
+
+
 Tela de listagem de PRs (com status em cores)
 
 Tela de cadastro/edição
